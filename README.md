@@ -149,9 +149,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- LinkedIn: [Gautam_Aggarwal](www.linkedin.com/in/gautam-aggarwal-)
-- Email: gautam.aggrwal.tech@gmail.com
-- GitHub: [github.com/gautamaggarwal](https://github.com/gautamaggarwaldev)
+- LinkedIn: [Sumit Diwakar]www.linkedin.com/in/sumit-diwakar-8036752b5)
+- Email: sumitdiwakar476@gmail.com
+- GitHub: [github.com/sumitdiwaka](https://github.com/sumitdiwaka)
 
 ---
 
